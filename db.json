@@ -79,7 +79,7 @@
         {
           "id": 2,
           "name": "3호선",
-          "color": "SKYBLUE"
+          "color": "PINK"
         }
       ]
     },
@@ -90,7 +90,7 @@
         {
           "id": 2,
           "name": "3호선",
-          "color": "SKYBLUE"
+          "color": "PINK"
         }
       ]
     },
@@ -106,7 +106,7 @@
         {
           "id": 2,
           "name": "3호선",
-          "color": "SKYBLUE"
+          "color": "PINK"
         }
       ]
     },
@@ -198,7 +198,7 @@
     {
       "id": 2,
       "name": "3호선",
-      "color": "SKYBLUE",
+      "color": "PINK",
       "stations": [
         {
           "id": 1,
