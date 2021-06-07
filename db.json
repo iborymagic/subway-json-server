@@ -4,43 +4,133 @@
   "stations": [
     {
       "id": 1,
-      "name": "잠실역"
+      "name": "잠실역",
+      "lines": [
+        {
+          "id": 0,
+          "name": "1호선",
+          "color": "RED"
+        },
+        {
+          "id": 1,
+          "name": "2호선",
+          "color": "PURPLE"
+        }
+      ]
     },
     {
       "id": 2,
-      "name": "잠실새내역"
+      "name": "잠실새내역",
+      "lines": [
+        {
+          "id": 0,
+          "name": "1호선",
+          "color": "RED"
+        },
+        {
+          "id": 1,
+          "name": "2호선",
+          "color": "PURPLE"
+        }
+      ]
     },
     {
       "id": 3,
-      "name": "종합운동장역"
+      "name": "종합운동장역",
+      "lines": [
+        {
+          "id": 0,
+          "name": "1호선",
+          "color": "RED"
+        },
+        {
+          "id": 1,
+          "name": "2호선",
+          "color": "PURPLE"
+        }
+      ]
     },
     {
       "id": 4,
-      "name": "강남역"
+      "name": "강남역",
+      "lines": [
+        {
+          "id": 0,
+          "name": "1호선",
+          "color": "RED"
+        }
+      ]
     },
     {
       "id": 5,
-      "name": "잠실나루역"
+      "name": "잠실나루역",
+      "lines": [
+        {
+          "id": 0,
+          "name": "1호선",
+          "color": "RED"
+        }
+      ]
     },
     {
       "id": 6,
-      "name": "건대입구역"
+      "name": "건대입구역",
+      "lines": [
+        {
+          "id": 2,
+          "name": "3호선",
+          "color": "SKYBLUE"
+        }
+      ]
     },
     {
       "id": 7,
-      "name": "숙대입구역"
+      "name": "숙대입구역",
+      "lines": [
+        {
+          "id": 2,
+          "name": "3호선",
+          "color": "SKYBLUE"
+        }
+      ]
     },
     {
       "id": 8,
-      "name": "혜화역"
+      "name": "혜화역",
+      "lines": [
+        {
+          "id": 0,
+          "name": "1호선",
+          "color": "RED"
+        },
+        {
+          "id": 2,
+          "name": "3호선",
+          "color": "SKYBLUE"
+        }
+      ]
     },
     {
       "id": 9,
-      "name": "서울역"
+      "name": "서울역",
+      "lines": [
+        {
+          "id": 0,
+          "name": "1호선",
+          "color": "RED"
+        }
+      ]
     },
     {
       "id": 10,
-      "name": "동대문역"
+      "name": "동대문역",
+      "lines": [
+        {
+          "id": 0,
+          "name": "1호선",
+          "color": "RED"
+        }
+      ]
     }
   ],
   "lines": [
