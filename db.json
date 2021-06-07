@@ -84,7 +84,7 @@
         {
           "id": 2,
           "name": "3호선",
-          "color": "PINK"
+          "color": "MALCHA"
         }
       ]
     },
@@ -100,7 +100,7 @@
         {
           "id": 2,
           "name": "3호선",
-          "color": "PINK"
+          "color": "MALCHA"
         }
       ]
     },
@@ -116,7 +116,7 @@
         {
           "id": 2,
           "name": "3호선",
-          "color": "PINK"
+          "color": "MALCHA"
         }
       ]
     },
@@ -266,7 +266,7 @@
     {
       "id": 2,
       "name": "3호선",
-      "color": "PINK",
+      "color": "MALCHA",
       "stations": [
         {
           "id": 1,
